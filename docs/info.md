@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Es un display de 7 segmentos en cual nos permite visualizar el funcionamiento de una compuerta logica al abrir y cerrar los interruptores
 
 ## How to test
 
-Explain how to use your project
-
+Te metes a la simulacion en Wokwi, luego presionas el boton verde. Despues cambiaras los valores de los interruptores y prueba con las combinaciones que tu gustes
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+display de 7 segmentos 
